@@ -1,4 +1,4 @@
-# HealthVolAI - Revolutionizing Healthcare Documentation & Analysis (HackOnMount Project)
+# HealthVoltAI - Revolutionizing Healthcare Documentation & Analysis (HackOnMount Project)
 ![Logo](https://github.com/user-attachments/assets/5e060701-b6dc-40d2-93fa-aaa533d6e720)
 
 ## Watch the Video
@@ -7,7 +7,7 @@
 
 Click the thumbnail above to watch the video.
 
-**HealthVolAI** is an innovative, AI-powered healthcare document processing system designed to streamline documentation and analysis for healthcare providers and insurers, making critical data more accessible and actionable. This project was developed by **Team int21h** for the HackOnMount hackathon.
+**HealthVoltAI** is an innovative, AI-powered healthcare document processing system designed to streamline documentation and analysis for healthcare providers and insurers, making critical data more accessible and actionable. This project was developed by **Team int21h** for the HackOnMount hackathon.
 
 ## Problem Statement
 
@@ -37,7 +37,7 @@ HealthVolAI addresses these challenges with three core capabilities:
 
 ## How It Works
 
-Here's a simplified overview of the HealthVolAI processing pipeline:
+Here's a simplified overview of the HealthVoltAI processing pipeline:
 
 1.  **User Input:** User uploads a medical document image or folder path.
 2.  **Frontend Layer:** Processes input and sends it to the backend through an API.
@@ -53,7 +53,7 @@ Here's a simplified overview of the HealthVolAI processing pipeline:
 
 ## Technology Stack
 
-HealthVolAI is built on a modern and robust technology stack:
+HealthVoltAI is built on a modern and robust technology stack:
 
 *   **Frontend:** Next.js with Tailwind CSS
 *   **Backend:** Flask (Python) - API and Data Processing
@@ -66,7 +66,7 @@ HealthVolAI is built on a modern and robust technology stack:
 
 ## Use Cases
 
-HealthVolAI offers a wide range of applications, including:
+HealthVoltAI offers a wide range of applications, including:
 
 *   **Accelerated Claims Processing:** Faster extraction of diagnostic codes and policy matching.
 *   **Fraud Detection:** Identification of unusual billing patterns and duplicate claims.
