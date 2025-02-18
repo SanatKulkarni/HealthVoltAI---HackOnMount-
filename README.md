@@ -1,6 +1,11 @@
 # HealthVolAI - Revolutionizing Healthcare Documentation & Analysis (HackOnMount Project)
+![Logo](https://github.com/user-attachments/assets/5e060701-b6dc-40d2-93fa-aaa533d6e720)
 
-![HealthVolt.AI Logo](Add your HealthVolt.AI logo URL here)
+## Watch the Video
+
+[![YouTube Video](https://img.youtube.com/vi/sggMvVYPiQQ/0.jpg)](https://www.youtube.com/watch?v=sggMvVYPiQQ)
+
+Click the thumbnail above to watch the video.
 
 **HealthVolAI** is an innovative, AI-powered healthcare document processing system designed to streamline documentation and analysis for healthcare providers and insurers, making critical data more accessible and actionable. This project was developed by **Team int21h** for the HackOnMount hackathon.
 
