@@ -1,0 +1,11 @@
+transformers
+torch
+torchvision
+opencv-python
+pillow
+qwen-vl-utils
+pytesseract
+pandas
+numpy
+git+https://github.com/huggingface/transformers
+git+https://github.com/huggingface/transformers accelerate
