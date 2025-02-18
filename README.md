@@ -49,7 +49,6 @@ Here's a simplified overview of the HealthVoltAI processing pipeline:
     *   **Text Processing:** Correction of spelling errors and abbreviations (using medical knowledge graph).
 4.  **Output:** Structured data in Excel file is generated and made available for download.
 
-![System Architecture Diagram](Add a link or upload a file containing the System Architecture Diagram here)
 
 ## Technology Stack
 
